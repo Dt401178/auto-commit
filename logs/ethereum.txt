@@ -1759938,3 +1759938,4 @@
   </script>
 </body>
 </html>
+{"error":"This endpoint has been discontinued.","message":"For an up to date list of available endpoints, visit https://gateway.lavanet.xyz"}
